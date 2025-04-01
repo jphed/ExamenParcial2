@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="thermometer">Thermometer</string>
+    <string name="enter_temperature_celsius">Enter temperature in °C</string>
+    <string name="convert_to_fahrenheit">Convert to °F</string>
+    <string name="result">Result: %1$s °F</string>
+    <string name="invalid_input">Invalid input</string>
+</resources>
+

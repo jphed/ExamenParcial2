@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile1Project</string>
+    <string name="login_image_desc">Login image</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="enter_weight">Enter weight (kg)</string>
+    <string name="enter_height">Enter height (m)</string>
+    <string name="calculate">Calculate</string>
+    <string name="correct_weight">Correct weight</string>
+    <string name="incorrect_weight">Overweight</string>
+    <string name="invalid_input">Invalid input</string>
+</resources>
