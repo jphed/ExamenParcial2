@@ -11,6 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.mobile1project.Parcial3.ui.LocationListScreen
 import com.example.mobile1project.ui.theme.Mobile1ProjectTheme
 import imc.views.IMCView
 import login.views.LoginView
@@ -23,7 +24,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             Mobile1ProjectTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    IMCView()
+                    LocationListScreen()
                 }
             }
         }
